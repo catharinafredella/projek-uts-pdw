@@ -46,7 +46,7 @@ if (!isset($_SESSION['id_user'])) {
          cssClass="width-10"/>
         <a href="#" class="navbar-brand scroll-top logo  animated bounceInLeft"><b><i><img src="images/logo2.png" style='max-width:120px'/></i></b></a> </div>
         <div class="col-lg-9 col-sm-9 col-2">
-          <marquee><font style="font-weight: 700; font-size:15px;">Materi Belajar Matematika Untuk Siswa Kelas 8 Sekolah Menengah Pertama</font></marquee></div>
+          <marquee><font style="font-weight: 700; font-size:15px;">Ma Belajar Matematika Untuk Siswa Kelas 8 Sekolah Menengah Pertama</font></marquee></div>
         <!--/.navbar-header-->
       <div id="main-nav" class="collapse navbar-collapse">
         <ul class="nav navbar-nav" id="mainNav">
