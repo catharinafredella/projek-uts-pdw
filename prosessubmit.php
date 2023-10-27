@@ -1,6 +1,6 @@
 <?php
 // Membuka koneksi ke database
-$koneksi = mysqli_connect("localhost", "root", "", "db_mathter");
+$koneksi = mysqli_connect("localhost", "root", "", "db_register");
 
 // Memeriksa apakah koneksi berhasil
 if (!$koneksi) {
