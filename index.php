@@ -46,7 +46,7 @@ if (!isset($_SESSION['id_user'])) {
          cssClass="width-10"/>
         <a href="#" class="navbar-brand scroll-top logo  animated bounceInLeft"><b><i><img src="images/logo2.png" style='max-width:120px'/></i></b></a> </div>
         <div class="col-lg-9 col-sm-9 col-2">
-          <marquee><font style="font-weight: 700; font-size:15px;">Ma Belajar Matematika Untuk Siswa Kelas 8 Sekolah Menengah Pertama</font></marquee></div>
+          <marquee><font style="font-weight: 700; font-size:15px;">Materi Belajar Matematika Untuk Siswa Kelas 7 Sekolah Menengah Pertama</font></marquee></div>
         <!--/.navbar-header-->
       <div id="main-nav" class="collapse navbar-collapse">
         <ul class="nav navbar-nav" id="mainNav">
@@ -95,7 +95,7 @@ if (!isset($_SESSION['id_user'])) {
   <div class="container hero-text2">        
 		<div class="col-md-12">
 		<h2>MATH-TER</h1>
-			<p>MATH-TER adalah sebuah website yang berisi rangkuman semua materi atau BAB yang diajarkan pada kelas 8 Sekolah Menengah Pertama (SMP).</p>   
+			<p>MATH-TER adalah sebuah website yang berisi rangkuman semua materi atau BAB yang diajarkan pada kelas 7 Sekolah Menengah Pertama (SMP).</p>   
 		</div>  
 		<div class="col-md-3">
 		</div>
